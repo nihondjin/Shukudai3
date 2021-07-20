@@ -1,0 +1,36 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="padding_home_12dp">12dp</dimen>
+    <dimen name="paddingleft_item_20dp">20dp</dimen>
+    <dimen name="padding_right_20dp">20dp</dimen>
+    <dimen name="textSize_14dp">14sp</dimen>
+    <dimen name="margin_top_8dp">8dp</dimen>
+    <dimen name="margin_left_40do">40dp</dimen>
+    <dimen name="padding_30dp">30dp</dimen>
+    <dimen name="paddingstart_30dp">30dp</dimen>
+    <dimen name="margubTop_30dp">30dp</dimen>
+    <dimen name="drawable_padding_10dp">10dp</dimen>
+    <dimen name="margin_top_16dp">16dp</dimen>
+    <dimen name="margin_10dp">10dp</dimen>
+    <dimen name="paddingleft_8dp">8dp</dimen>
+    <dimen name="marginLeft_360dp">340dp</dimen>
+    <dimen name="widtj">282dp</dimen>
+    <dimen name="height">24dp</dimen>
+    <dimen name="margin_40dp">40dp</dimen>
+    <dimen name="width_txt_onboard">226dp</dimen>
+    <dimen name="heigt_txtonboarding">24dp</dimen>
+    <dimen name="image_width_onboard">287dp</dimen>
+    <dimen name="height_onboard">267dp</dimen>
+    <dimen name="margin_top_107dp">107dp</dimen>
+    <dimen name="margin_top_477">477dp</dimen>
+    <dimen name="marginBottom">82dp</dimen>
+    <dimen name="indicator_radius_8dp">8dp</dimen>
+    <dimen name="dotsSize_16dp">16dp</dimen>
+    <dimen name="dotsSpacing_4dp">4dp</dimen>
+    <dimen name="dotsStroke_width_2dp">2dp</dimen>
+</resources>
